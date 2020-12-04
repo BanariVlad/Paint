@@ -4,11 +4,23 @@
     <projectFile>Paint/Paint.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="997435de-1691-4221-a325-668926d9472e" name="Default Changelist" comment="" />
+    <list default="true" id="997435de-1691-4221-a325-668926d9472e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Paint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Paint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paint/Draw.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Paint/Draw.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paint/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Paint/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paint/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Paint/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paint/bin/Debug/Paint.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Paint/bin/Debug/Paint.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paint/bin/Debug/Paint.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Paint/bin/Debug/Paint.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paint/obj/Debug/Paint.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Paint/obj/Debug/Paint.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paint/obj/Debug/Paint.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Paint/obj/Debug/Paint.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa12892.24314/Mainpaint/Form1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -26,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1kxY4Po3f5OnVGuEkgR0pB0FqN8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,7 +79,7 @@
       <updated>1606643521706</updated>
       <workItem from="1606643530718" duration="4799000" />
       <workItem from="1607020121484" duration="19174000" />
-      <workItem from="1607105637613" duration="4960000" />
+      <workItem from="1607105637613" duration="6378000" />
     </task>
     <servers />
   </component>
@@ -79,30 +92,38 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="192" key="GridCell.Tab.0.bottom" timestamp="1607118018567">
+    <state x="698" y="418" width="383" height="204" key="Github.ShareDialog" timestamp="1607118786536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607118018567" />
-    <state width="1877" height="192" key="GridCell.Tab.0.center" timestamp="1607118018567">
+    <state x="698" y="418" width="383" height="204" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607118786536" />
+    <state x="733" y="226" key="Github.UntrackedFilesDialog" timestamp="1607118792057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607118018567" />
-    <state width="1877" height="192" key="GridCell.Tab.0.left" timestamp="1607118018567">
+    <state x="733" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607118792057" />
+    <state width="1877" height="192" key="GridCell.Tab.0.bottom" timestamp="1607119968572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607118018567" />
-    <state width="1877" height="192" key="GridCell.Tab.0.right" timestamp="1607118018567">
+    <state width="1877" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607119968572" />
+    <state width="1877" height="192" key="GridCell.Tab.0.center" timestamp="1607119968572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607118018567" />
+    <state width="1877" height="192" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607119968572" />
+    <state width="1877" height="192" key="GridCell.Tab.0.left" timestamp="1607119968572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="192" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607119968572" />
+    <state width="1877" height="192" key="GridCell.Tab.0.right" timestamp="1607119968572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="192" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607119968572" />
     <state x="590" y="179" key="ToolboxManager" timestamp="1606646693739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="179" key="ToolboxManager/0.0.1920.1040@0.0.1920.1040" timestamp="1606646693739" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1607088289049">
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1607119591014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607088289049" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607119591014" />
     <state x="1200" y="162" width="672" height="678" key="search.everywhere.popup" timestamp="1607102307518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
